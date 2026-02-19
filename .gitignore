@@ -20,4 +20,5 @@ test.png
 /assets/cubyz/fonts
 
 .envrc
+.direnv
 flake.lock
